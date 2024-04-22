@@ -1,0 +1,38 @@
+.body-class{
+    background-color: #388659;
+}
+
+.header-class{
+    background-color: #52aa8a;
+    color: black;
+}
+
+.nav-class{
+    background-color: 52aa5e;
+}
+
+.title-class, .section-title-class{
+    color: white;
+}
+
+.text-class{
+    color: 43, 217, 254;
+}
+
+.image-class{
+    border: black 3px solid;
+}
+
+.form-class, .button-class{
+    color: 3aaed8;
+}
+
+.footer-class{
+    background-color: #52aa8a;
+}
+
+@media screen and (max-width: 980px) {
+    img{
+        width: 80%;
+    }
+  }
